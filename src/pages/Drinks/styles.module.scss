@@ -1,0 +1,52 @@
+
+.mainContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin-top: 5rem;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  width: 100%;
+  gap: 2rem;
+
+
+  .cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+    
+    
+    
+    .cards {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: rgba(235, 235, 235, 0.473);
+      padding: 10px;
+      border-radius: 10px;
+      cursor: pointer;
+      width: 100%;
+      
+      h1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+        font-size: 1.2rem;
+      }
+  
+      img{
+        width: 200px;
+        object-fit: cover;
+        border-radius: 10px;
+      }
+    }
+  
+  }
+}

@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+}
+
+
+:root{
+  --yellow-text: '#E7AD7F';
+  --yellow-light: '#E5E1C5';
+  --yellow-button: '#694122';
+}
+
+
+::-webkit-scrollbar {
+  width:10px;
+  height: 10px;
+  
+  }
+
+::-webkit-scrollbar-track{
+  background: #a5fcdb;
+  }
+
+::-webkit-scrollbar-thumb{
+  background: #eafbff;
+  }
+
+
+body{
+  font-family: 'Lobster', cursive;
+  
+  color: #694122;
+  background-image: linear-gradient(to right bottom, #a6f9bc, #a5fcdb, #b4fdf2, #cefcfe, #eafbff, #e5fbff, #dffbff, #dafbff, #a6fffb, #74ffe5, #56ffbd, #5ffb87);
+}
+a{
+  text-decoration: 0;
+  color: #694122;
+}

@@ -1,0 +1,54 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+ 
+
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    height: 100%;
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+    
+    
+    .logoContainer{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img{
+        width: 5rem;
+      }
+  
+      a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 3rem;
+        background: transparent;
+        
+        
+      }
+      
+    }
+
+
+@media (max-width: 767px) {
+  .logoContainer{
+    img{
+      width: 2.5rem;
+
+    }
+
+    a{
+      font-size: 2.3rem;
+    }
+  }
+}
+ 
+  
+}}

@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  height: 300px;
+
+  .logo{
+    img{
+      width: 100px;
+    }
+  }
+
+
+  img{
+    width: 12px;
+    height: 100%;
+  }
+}

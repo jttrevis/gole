@@ -1,0 +1,27 @@
+.form{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5px;
+    border-radius: 10px;
+    background: rgb(176, 255, 192);
+    border: none;
+    input {
+      background: rgb(176, 255, 192);
+      border: none;
+      padding: 0.5rem;
+      border-radius: 10px;
+      outline: none;
+      color: black;
+    }
+  }
+  
+
+::placeholder { 
+  color: rgb(70, 70, 70);
+  opacity: 1; 
+
+  
+
+}
