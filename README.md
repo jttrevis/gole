@@ -2,9 +2,7 @@
 
 # IS LIVE NOW : [gole](https://gole-4agimhppi-jttrevis.vercel.app/)
 
-![pizza](https://user-images.githubusercontent.com/105820012/225731626-e81e3ea1-d277-4f41-973d-aae4422c0e5f.png)
 
-https://user-images.githubusercontent.com/105820012/225735317-1b5e31ef-c471-4fad-9476-2f94ea56ec0d.mp4
 ## About
 
 
