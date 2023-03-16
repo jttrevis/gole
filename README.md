@@ -1,7 +1,7 @@
 # gole
 
 # IS LIVE NOW : [gole](https://gole-4agimhppi-jttrevis.vercel.app/)
-
+![drink](https://user-images.githubusercontent.com/105820012/225737636-62497ffc-eb8e-40b2-ad91-0a90d5f978d4.png)
 
 ## About
 
@@ -28,7 +28,7 @@ Here are the technologies used in this project.
 
 # WebSite
 
-![drink](https://user-images.githubusercontent.com/105820012/225737636-62497ffc-eb8e-40b2-ad91-0a90d5f978d4.png)
+
 
 
 https://user-images.githubusercontent.com/105820012/225737645-ed36c0db-b4be-45ae-a785-ccfb69ae4760.mp4
