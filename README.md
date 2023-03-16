@@ -34,7 +34,7 @@ Here are the technologies used in this project.
 https://user-images.githubusercontent.com/105820012/225737645-ed36c0db-b4be-45ae-a785-ccfb69ae4760.mp4
 
 ![screencapture-gole-4agimhppi-jttrevis-vercel-app-2023-03-16-19_47_45](https://user-images.githubusercontent.com/105820012/225737668-30e66a49-32dd-4426-8a1f-304cd95f798b.png)
-ithubusercontent.com/105820012/225731009-d87ec2d8-7b94-4713-988b-06fa716e15ed.png)
+
 
 
 
